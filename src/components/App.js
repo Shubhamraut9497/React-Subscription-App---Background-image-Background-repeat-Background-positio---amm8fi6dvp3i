@@ -6,7 +6,7 @@ const App = () => {
       <div class="container">
         <div class="community">
           <h2 class="community-header">Join our community</h2>
-          <h3 className="h">30-day,hassle free monkey back guarantee </h3>
+          <h3 className="h">30-day,hassle-free monkey back guarantee </h3>
           <h3 className="e">
             Gain access to our full library of tutorials along with expert code
             reviews.Perfect for any developers who are serious about honing
